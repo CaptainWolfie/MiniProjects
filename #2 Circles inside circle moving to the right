@@ -1,3 +1,11 @@
+/*
+ * Target:
+ *   Create circles with random Size,
+ *   random position inside a bigger circle and random color
+ *
+ * Project status: Created
+*/
+
 #include "SDL.h"
 #include <iostream>
 #include <vector>
