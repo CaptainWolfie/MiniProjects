@@ -1,3 +1,9 @@
+/*
+ * Library used: SDL 2.0
+ *
+ * Created by CaptainWolfie
+*/
+
 #include "SDL.h"
 #include <iostream>
 
