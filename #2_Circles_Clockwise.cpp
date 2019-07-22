@@ -1,4 +1,6 @@
 /*
+ * Library used: SDL 2.0
+ *
  * Target:
  *   Create circles with random Size,
  *   random position inside a bigger circle and random color
