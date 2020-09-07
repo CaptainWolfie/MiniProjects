@@ -20,7 +20,7 @@ def isPalindromic(num):
 
 while True:
     
-    for i in range(10 ** (digits - 1),(10 ** digits) - 1):
+    for i in range(10 ** (digits - 1),10 ** digits):
         sum = i * first
         if isPalindromic(sum):
             if sum > max:
